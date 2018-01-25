@@ -31,6 +31,7 @@
 -  `@Sylvester <https://github.com/coboe>`__
 -  `@胡东瑶 <https://github.com/psubnwell>`__
 -  `@jizg <https://github.com/jizg>`__
+-  `@QianFanCe <https://github.com/QianFanCe>`__
 
 建议反馈
 --------
